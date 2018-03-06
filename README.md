@@ -12,5 +12,5 @@ following are the steps:
 - Create a function
 - Map 2 tables
 - Assign new column to a table
-- Filte data in table
+- Filter data in table
 - Create pivot tables
