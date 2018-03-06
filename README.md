@@ -1,4 +1,4 @@
-# Exercise
+# Data_Manipulation_in_Python
 Some Python codes for Data Manipulation: In this exercise, Pandas and Numpy libraries are used.
 following are the steps:
 - Create a List
