@@ -1,6 +1,7 @@
 # Data_Manipulation_in_Python
-Some Python codes for Data Manipulation: In this exercise, Pandas and Numpy libraries are used.
-following are the steps:
+Some Python codes for Data Manipulation and Data structure:
+
+In the Data_Manipulation file, Pandas library is used. following are the steps in Data_Manipulation file:
 - Create a List
 - Change the type of data in the list
 - Slice the list
@@ -14,3 +15,12 @@ following are the steps:
 - Assign new column to a table
 - Filter data in table
 - Create pivot tables
+
+in the Exercise_EDX file following items are used:
+- IF statement
+- For statement
+- While statement
+- create FUNCTION
+- List
+- String
+- Dictionary
