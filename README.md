@@ -1,7 +1,8 @@
+
 # Data_Manipulation_in_Python
 Some Python codes for Data Manipulation and Data structure:
 
-In the Data_Manipulation file, Pandas library is used. following are the steps in Data_Manipulation file:
+## In the Data_Manipulation file, Pandas library is used. following are the steps in Data_Manipulation file:
 - Create a List
 - Change the type of data in the list
 - Slice the list
@@ -16,7 +17,7 @@ In the Data_Manipulation file, Pandas library is used. following are the steps i
 - Filter data in table
 - Create pivot tables
 
-in the Exercise_EDX file following items are used:
+## In the Exercise_EDX file following items are used:
 - IF statement
 - For statement
 - While statement
@@ -24,3 +25,10 @@ in the Exercise_EDX file following items are used:
 - List
 - String
 - Dictionary
+
+## In Data_Structure_and basic_libraries_in_Python, some necessary exercises which are important for data science are explained.
+- String
+- List
+- Tuples
+- Dictionary
+- Set
